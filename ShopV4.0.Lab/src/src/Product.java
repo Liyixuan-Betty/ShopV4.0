@@ -1,3 +1,5 @@
+package src;
+
 /**
  * A scaled down version of a Product class
  *
